@@ -1,4 +1,4 @@
-module Go-To-Do-API
+module github.com/tberk-s/Go-To-Do-API
 
 go 1.23.2
 
